@@ -1,0 +1,1 @@
+{"tagline":"automation, as you wish","note":"Don't delete this file! It's used internally to help with page regeneration.","body":"# A chatbot for your workflow\r\n\r\nWhatever language you prefer, `maitred` understands.\r\n\r\n```python\r\nwhile True:\r\n    request = input()\r\n    print('Yes, sir!')\r\n```","name":"maitred","google":""}
